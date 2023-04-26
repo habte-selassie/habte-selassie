@@ -20,6 +20,11 @@ Markdown
 [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
 
 
+https://badges.pufler.dev/gists/{username}
+Markdown
+
+[![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
