@@ -1,43 +1,45 @@
 ### Hi there 👋
 
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
                 
 
 **habte-selassie/habte-selassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://badges.pufler.dev/visits/{username}/{repo}
+https://badges.pufler.dev/visits/{habte-selassie}/{repo}
 Markdown
 
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
-https://badges.pufler.dev/years/{username}
+https://badges.pufler.dev/years/{habte-selassie}
 Markdown
 
 [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
 
 
-https://badges.pufler.dev/repos/{username}
+https://badges.pufler.dev/repos/{habte-selassie}
 Markdown
 
 [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
 
 
-https://badges.pufler.dev/gists/{username}
+https://badges.pufler.dev/gists/{habte-selassie}
 Markdown
 
 [![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev)
 
 
-https://badges.pufler.dev/updated/{username}/{repo}
+https://badges.pufler.dev/updated/{habte-selassie}/{repo}
 Markdown
 
 [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
 
 
-https://badges.pufler.dev/commits/{periodicity}/{username}
+https://badges.pufler.dev/commits/{periodicity}/{habte-selassie}
 Markdown
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
+
+
 
 
 
