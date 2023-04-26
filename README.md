@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
+
 **habte-selassie/habte-selassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://badges.pufler.dev/visits/{username}/{repo}
