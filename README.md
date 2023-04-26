@@ -7,41 +7,7 @@
 
 ![Visits](https://badges.pufler.dev/visits/habte-selassie/repo)
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-
-https://badges.pufler.dev/years/{habte-selassie}
-Markdown
-
-[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
-
-
-https://badges.pufler.dev/repos/{habte-selassie}
-Markdown
-
-[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
-
-
-https://badges.pufler.dev/gists/{habte-selassie}
-Markdown
-
-[![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev)
-
-
-https://badges.pufler.dev/updated/{habte-selassie}/{repo}
-Markdown
-
-[![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
-
-
-https://badges.pufler.dev/commits/{periodicity}/{habte-selassie}
-Markdown
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
-
-
-
-
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
 
 
 
