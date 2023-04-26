@@ -5,8 +5,8 @@
 
 **habte-selassie/habte-selassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://badges.pufler.dev/visits/{habte-selassie}/{repo}
-Markdown
+![Visits](https://badges.pufler.dev/visits/habte-selassie/repo)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
