@@ -25,6 +25,19 @@ Markdown
 
 [![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev)
 
+
+https://badges.pufler.dev/updated/{username}/{repo}
+Markdown
+
+[![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
+
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
