@@ -32,6 +32,10 @@ Markdown
 [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
 
 
+https://badges.pufler.dev/commits/{periodicity}/{username}
+Markdown
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
 
 
 
