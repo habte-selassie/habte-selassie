@@ -1,27 +1,20 @@
 ### Hi there 👋
-- 🔭 I’m currently working on developing full-stack applications using React, Node.js, and various databases.
-- 🌱 I’m currently learning TypeScript, Tailwind CSS, and Next.js to enhance my skills and build better applications.
-- 👯 I’m looking to collaborate on projects that involve building dynamic and responsive web applications.
-- 🤔 I’m looking for help with optimizing the performance of my web applications and implementing best practices in development.
-- 💬 Ask me about my experience with React development, Node.js, and full-stack development in general.
-- 📫 How to reach me: You can reach me through my email or LinkedIn profile, which I have listed on my resume.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: When I'm not coding, I love to help others and watch football!
 <h1 align="center">Hi 👋, I'm Habte Selassie Fitsum.</h1>
 <h3 align="center">A Dedicated Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habte-selassie&label=Profile%20views&color=0e75b6&style=flat" alt="habte-selassie" /> </p>
 
-- 🔭 I’m currently working on **Twitter Clone and Insatgram Clone Application.**
+- 🔭 **I’m currently working on developing full-stack Twitter Clone and Insatgram Clone Application.**applications   using React, Node.js,Socket.io ,Firebase ,JWT ,MongoDb and Redux and various databases.
+- 🌱 **I’m currently learning TypeScript, Tailwind CSS, and Next.js to enhance my skills and build better applications.
+- 👯 **I’m looking to collaborate on projects that involve building dynamic and responsive web applications.
+- 🤔 **I’m looking for help with optimizing the performance of my web applications and implementing best practices in development.
+- 💻 **See some of my projects at [my portfolio](https://habte-selassie-portfolio-app.netlify.app/)
+- 💬 **Ask me about my experience with React development, Node.js, and full-stack development in general.
+- 📫 **How to reach me: **habteselassie26@gmail.com**.
+- 😄 **Pronouns: He/him
+- ⚡ **Fun fact: I am happy and When I'm not coding, I love to help others and watch football!
 
-- 🌱 I’m currently learning **React.js, Node.js**
-
-- 👨‍💻 See some of my projects at [my portfolio](https://habte-selassie-portfolio-app.netlify.app/)
-
-- 📫 How to reach me **habteselassie26@gmail.com**
-
-- ⚡ Fun fact **I am happy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,13 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habte-selassie&" alt="habte-selassie" /></p>
 
-
-
-
-
-- [Git Badges](https://github.com/puf17640/git-badges#readme) - An API serving useful badges for your github profile readme 🚀.
-- [Hits](https://github.com/dwyl/hits) - 📈 General purpose hits (page views) counter.
-- [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) - Badges for your profile and projects.
-- [Shields](https://github.com/badges/shields#readme) - Concise, consistent, and legible badges in SVG and raster format.
-- [StackOverflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge#readme) - Display your stats with this unique StackOverflow badge.
-- [Visitor Badge](https://github.com/jwenjian/visitor-badge#readme) - A badge generator service to count visitors of your markdown file.
