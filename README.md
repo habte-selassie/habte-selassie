@@ -1,28 +1,5 @@
 ### Hi there 👋
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-                
-
-**habte-selassie/habte-selassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Visits](https://badges.pufler.dev/visits/habte-selassie/repo)
-
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/pujux)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Habte Selassie Fitsum.</h1>
 <h3 align="center">A Dedicated Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
