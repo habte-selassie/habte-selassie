@@ -53,6 +53,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habte-selassie&" alt="habte-selassie" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=habte-selassie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a
 
