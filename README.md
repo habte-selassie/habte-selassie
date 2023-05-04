@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habte-selassie&label=Profile%20views&color=0e75b6&style=flat" alt="habte-selassie" /> </p>
 
+
 - 🔭 **I’m currently working on developing full-stack Twitter Clone and Insatgram Clone Application.**applications   using React, Node.js,Socket.io ,Firebase ,JWT ,MongoDb and Redux and various databases.
 - 🌱 **I’m currently learning TypeScript, Tailwind CSS, and Next.js to enhance my skills and build better applications.
 - 👯 **I’m looking to collaborate on projects that involve building dynamic and responsive web applications.
