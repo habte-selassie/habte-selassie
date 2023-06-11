@@ -21,7 +21,6 @@
 <a href="https://app.netlify.com/teams/habtuchelsea1000/overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="habte-selassie" height="30" width="40" /></a>
 </p>
 
-
 ### Programming Languages:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40"/> </a>  
