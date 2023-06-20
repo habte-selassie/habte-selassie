@@ -125,22 +125,10 @@
   <img src="https://www.svgrepo.com/show/303226/sql.svg" alt="SQL" width="60" height="40"/>
 </a>
 
-
-
-
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="40"/>
 </a>
 
-
-
-
-
-
-
-	 
-  
   <a href="https://github.com/habte-selassie/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/habte-selassie/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=habte-selassie&column=8&theme=gruvbox&no-frame=true"/>
@@ -155,11 +143,7 @@
 
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-
 <p align="center"> <img  width="900em" alt=""  src="https://github.com/habte-selassie/habte-selassie/blob/output/github-contribution-grid-snake.svg" /> </p>
-
-
-
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
