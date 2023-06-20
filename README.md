@@ -200,9 +200,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habte-selassie&" alt="habte-selassie" /></p>
 
 
-<h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=habte-selassie&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Habte Selassie's Github Graph" /> </p> 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
 <p align="center"> <img  width="900em" alt="Habte Selassie's Github commit snake"  src="https://github.com/habte-selassie/habte-selassie/blob/output/github-contribution-grid-snake.svg" /> </p>
