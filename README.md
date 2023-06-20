@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habte-selassie&label=Profile%20views&color=0e75b6&style=flat" alt="habte-selassie" /> </p>
 
-- 🔭 **I’m currently working on developing full-stack Twitter Clone and Insatgram Clone Application.**applications   using React, Node.js,Socket.io ,Firebase ,JWT ,MongoDb and Redux and various databases.
+- 🔭 **I’m currently working on developing full-stack Twitter Clone and Instagram Clone Application.**applications   using React, Node.js, Socket.io, Firebase, JWT, MongoDb and Redux, and various databases.
 - 🌱 **I’m currently learning TypeScript, Tailwind CSS, and Next.js to enhance my skills and build better applications.
 - 👯 **I’m looking to collaborate on projects that involve building dynamic and responsive web applications.
 - 🤔 **I’m looking for help with optimizing the performance of my web applications and implementing best practices in development.
-- 💻 **See some of my projects at [my portfolio](https://habte-selassie-portfolio-app.netlify.app/)
+- 💻 **See some of my projects at [my portfolio](https://habte-selassie-portfolio.netlify.app/)
 - 💬 **Ask me about my experience with React development, Node.js, and full-stack development in general.
 - 📫 **How to reach me: **habteselassie26@gmail.com**.
 - 😄 **Pronouns: He/him
@@ -66,7 +66,7 @@
 <a href="#"><img width="450" align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a>
 
 
-### Front End FrameWork:
+### Front End Framework:
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="60" height="40"/>
