@@ -183,30 +183,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="30"/>
 </a>
 
-### Online Education Tools:
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="60" height="30"/>
-</a>
 
-<a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/freecodecamp/freecodecamp-original.svg" alt="FreeCodeCamp" width="60" height="30"/>
-</a>
 
-<a href="https://www.udemy.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/udemy/udemy-original.svg" alt="Udemy" width="60" height="30"/>
-</a>
-
-<a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mdn/mdn-original.svg" alt="MDN Web Docs" width="60" height="30"/>
-</a>
-
-<a href="https://www.coursera.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coursera/coursera-original.svg" alt="Coursera" width="60" height="30"/>
-</a>
-
-<a href="https://devicon.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Devicon" width="60" height="30"/>
-</a>
 
 	 
   
