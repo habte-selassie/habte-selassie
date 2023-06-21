@@ -121,10 +121,6 @@
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="60" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303226/sql.svg" alt="SQL" width="60" height="40"/>
-</a>
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="40"/>
 </a>
