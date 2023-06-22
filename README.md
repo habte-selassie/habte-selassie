@@ -137,7 +137,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habte-selassie&" alt="habte-selassie" /></p>
 
 
-
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 <p align="center"> <img  width="900em" alt=""  src="https://github.com/habte-selassie/habte-selassie/blob/output/github-contribution-grid-snake.svg" /> </p>
  <picture>
