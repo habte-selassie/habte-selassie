@@ -123,7 +123,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="40"/>
 </a>
-
   <a href="https://github.com/habte-selassie/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/habte-selassie/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=habte-selassie&column=8&theme=gruvbox&no-frame=true"/>
