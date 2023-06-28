@@ -36,31 +36,24 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="40"/>
 </a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="40"/>
 </a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="60" height="40"/>
 </a>
-
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="60" height="40" style="filter: invert(1)"/>
 </a>
-
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="40"/>
 </a>
-
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="40"/>
 </a>
-
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="40"/>
 </a>
-
 <a href="https://socket.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="60" height="40"/>
 </a>
