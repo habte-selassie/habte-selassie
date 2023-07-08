@@ -99,7 +99,6 @@
 <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="40"/>
 </a>
-
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="60" height="40"/>
 </a>
