@@ -72,7 +72,6 @@
 <a href="https://material.angular.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular Material" width="60" height="40"/>
 </a>
-
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="60" height="40"/>
 </a>
