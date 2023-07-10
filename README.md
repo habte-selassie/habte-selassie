@@ -83,7 +83,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" height="40"/>
 </a>
-
 <a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React-Bootstrap" width="60" height="40"/>
 </a>
